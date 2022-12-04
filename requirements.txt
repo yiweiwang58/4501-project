@@ -1,0 +1,11 @@
+python-math
+numpy
+bs4
+matplotlib
+pandas
+requests
+sqlalchemy
+scipy
+keplergl
+geopandas
+
