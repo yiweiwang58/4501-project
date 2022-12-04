@@ -1,4 +1,4 @@
-# 4501-project
+# NYC-Rides Analysis
 ## GROUP NAME: 30
 
 UNIs: [yw3923,yz4362]
